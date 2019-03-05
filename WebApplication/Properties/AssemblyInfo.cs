@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WebFormAuthenticationWithRoleProvider")]
+[assembly: AssemblyTitle("WebApplication")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WebFormAuthenticationWithRoleProvider")]
+[assembly: AssemblyProduct("WebApplication")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5aeb6434-f1ec-4e53-a02e-6d582e9f0f32")]
+[assembly: Guid("c2d67b46-45eb-49a9-9fba-d2a7d71fe1bc")]
 
 // Version information for an assembly consists of the following four values:
 //
